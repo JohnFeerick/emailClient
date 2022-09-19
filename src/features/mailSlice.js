@@ -3,7 +3,7 @@ import { createSlice } from '@reduxjs/toolkit';
 export const mailSlice = createSlice({
   name: 'mail',
   initialState: {
-    seelctedMail: null,
+    selectedMail: null,
     sendMessageIsOpen: false,
   },
   reducers: {

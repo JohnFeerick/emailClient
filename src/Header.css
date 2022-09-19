@@ -45,3 +45,7 @@
     color: gray;
     padding-right: 20px;
 }
+
+.header__right .MuiSvgIcon-root{
+    cursor: pointer;
+}
